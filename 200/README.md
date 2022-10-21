@@ -1,7 +1,13 @@
 # 200 - Requirements
 
-- Intel NUC Basic Mini Computer (see https://www.bol.com/nl/nl/p/intel-nuc-basic-mini-computer-desktop-pc-500gb-ssd-16gb-wifi-bluetooth-2x-hdmi-windows-11/9300000095689051/)
+## 100 - Intel NUC Basic Mini Computer
 
-- Kubernetes (see https://tightlycoupled.io/stormlight/)
+See [README.md](./100/README.md)
 
-- Kublr On-Premise (see https://kublr.com/deploy-kubernetes-on-premise/)
+## 200 - Kubernetes
+
+See https://tightlycoupled.io/stormlight/
+
+## 300 - Kublr On-Premise
+
+See https://kublr.com/deploy-kubernetes-on-premise/
